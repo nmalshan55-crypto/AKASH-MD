@@ -1,8 +1,9 @@
 # ⚡ WELCOME TO AKASH MD ⚡
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nmalshan55-crypto/AKASH-MD/main/sulabot.jpg" alt="AKASH MD" width="500"/>
+  <img src="https://raw.githubusercontent.com/nmalshan55-crypto/AKASH-MD/main/file_00000000685871f5bf18536f901b0f5b.jpg" alt="AKASH MD" width="500"/>
 </p>
+
 
 <p align="center">
   <a href="https://wa.me/94776803740"><img src="https://img.shields.io/badge/Contact%20Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
